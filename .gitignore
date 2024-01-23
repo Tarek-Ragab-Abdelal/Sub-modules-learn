@@ -1,3 +1,5 @@
+.vscode
+
 [submodule "gold_ingots_calc"]
     path = gold_ingots_calc
     url = https://github.com/Tarek-Ragab-Abdelal/gold_ingots_calc
